@@ -37,3 +37,12 @@ ROM : 2MB   (0x0800 0000 to 0x081f ffff)
 
 Peripherals (0x4000 0000)
 
+ToolChain : arm-none-eabi-gcc
+
+Debug Mode : 
+    Hardware : ST-Link onboard
+    Flash : st-flash
+    Server : OpenOCD
+    Client : arm-none-eabi-gdb
+
+dependencies : make , stlink , openocd , gcc
