@@ -1,4 +1,4 @@
-# this is a step by step guide to develop sofrware for the STM32F7-Nucleo board
+# This is a step by step guide to develop sofrware for the STM32F7-Nucleo board
 
 The details about this board can be obtained from the product data sheet.
 
@@ -28,7 +28,7 @@ Board-specific features
 • USB OTG full speed or SNK/UFP (full-speed or high-speed mode), depending
 on the USB connector type
 • Board connectors:
-– USB with Micro-AB or USB Type-C®
+– USB with Micro-AB or USB Type-C
 – Ethernet RJ45
 
 Memory Map:
