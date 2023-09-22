@@ -1,5 +1,7 @@
 # This is a step by step guide to develop sofrware for the STM32F7-Nucleo board
 
+ref : https://github.com/cpq/bare-metal-programming-guide
+
 The details about this board can be obtained from the product data sheet.
 
 url : <https://www.st.com/en/evaluation-tools/nucleo-f767zi.html>
