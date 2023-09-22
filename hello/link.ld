@@ -1,3 +1,4 @@
+/* https://embedds.com/programming-stm32-discovery-using-gnu-tools-linker-script/ */
 ENTRY(_reset);
 MEMORY {
   flash(rx)  : ORIGIN = 0x08000000, LENGTH = 2048k
