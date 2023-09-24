@@ -1,4 +1,4 @@
-# This is a step by step guide to develop sofrware for the STM32F7-Nucleo board
+# This is a step by step guide to develop sofrtware for the STM32F7-Nucleo board
 
 ref : https://github.com/cpq/bare-metal-programming-guide
 
